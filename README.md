@@ -11,6 +11,12 @@ RestaurantProject.jar
 ```
 to run the program 
 
+# GUI
+
+Interface was built in netbeans java xml editor and it looks prttey simple and easier to use 
+
+![image](https://user-images.githubusercontent.com/36739976/115896973-ca7d2b00-a47d-11eb-8b1b-fbd695de3a9d.png)
+
 
 
 
